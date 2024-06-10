@@ -2590,7 +2590,7 @@ html {
   }
   
   .banner-type-one-pattern.hero-one {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e58c8d88b3d435697a6fe1_Pattern%201.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e58c8d88b3d435697a6fe1_Pattern%201.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: cover;
@@ -2598,7 +2598,7 @@ html {
   }
   
   .banner-type-one-pattern.home-one {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b0280c38e5e1a777c39c_Pattern%202.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b0280c38e5e1a777c39c_Pattern%202.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: auto;
@@ -2606,7 +2606,7 @@ html {
   }
   
   .banner-type-one-pattern.home-two {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b02839624df385de37cc_Pattern%203.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b02839624df385de37cc_Pattern%203.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: auto;
@@ -2614,7 +2614,7 @@ html {
   }
   
   .banner-type-one-pattern.home-three {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028bcf46d8862c9270f_Pattern%204.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028bcf46d8862c9270f_Pattern%204.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: auto;
@@ -2622,7 +2622,7 @@ html {
   }
   
   .banner-type-one-pattern.contact-banner {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028b1e6df3aadab84a5_Pattern%205.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028b1e6df3aadab84a5_Pattern%205.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: cover;
@@ -2630,7 +2630,7 @@ html {
   }
   
   .banner-type-one-pattern.admissions-one {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028e6afb2b46fe751de_Pattern%206.svg");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5b028e6afb2b46fe751de_Pattern%206.svg');
     background-position: 50%;
     background-repeat: repeat;
     background-size: auto;

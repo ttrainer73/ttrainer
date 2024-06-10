@@ -2399,7 +2399,7 @@ html {
   .hero-section-image.home-block {
     min-height: 600px;
     min-width: 50%;
-    background-image: url("assests/images/keira-burton-.jpg");
+    background-image: url('public/assests/images/keira-burton-.jpg');
     background-position: 50% 35%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2411,7 +2411,7 @@ html {
   .hero-section-image.internal {
     min-height: 600px;
     min-width: 50%;
-    background-image: url("");
+    background-image: url('');
     background-position: 50% 35%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2422,19 +2422,19 @@ html {
   }
   
   .hero-section-image.internal.about {
-    background-image: url("assests/images/edventure\ park.jpg");
+    background-image: URL('public/assests/images/edventure\ park.jpg');
   }
   
   .hero-section-image.internal.services {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5efde546aed636b06c52f_jeffery-erhunse-5eQ-_Gebljg-unsplash-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5efde546aed636b06c52f_jeffery-erhunse-5eQ-_Gebljg-unsplash-min.webp');
   }
   
   .hero-section-image.internal.admissions {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5fb69b3b8581f24efa272_javier-trueba-iQPr1XkF5F0-unsplash-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e5fb69b3b8581f24efa272_javier-trueba-iQPr1XkF5F0-unsplash-min.webp');
   }
   
   .hero-section-image.internal.news-and-events {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e6e05680f4979afae38393_pexels-julia-m-cameron-4144099-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e6e05680f4979afae38393_pexels-julia-m-cameron-4144099-min.webp');
   }
   
   .hero-section-image.internal.parallax-wrapper {
@@ -2449,27 +2449,27 @@ html {
   }
   
   .hero-section-image.internal.contact {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e86b217f5a151ebc72ef59_priscilla-du-preez-h58gEQi1Yss-unsplash-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e86b217f5a151ebc72ef59_priscilla-du-preez-h58gEQi1Yss-unsplash-min.webp');
   }
   
   .hero-section-image.internal.departments {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e87afed47f98a9ab893676_pexels-armin-rimoldi-5553108-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e87afed47f98a9ab893676_pexels-armin-rimoldi-5553108-min.webp');
   }
   
   .hero-section-image.internal.advanced-program {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e89151efe41c5672c8b770_pexels-max-fischer-5212697-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e89151efe41c5672c8b770_pexels-max-fischer-5212697-min.webp');
   }
   
   .hero-section-image.internal.safe-program {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e89891a623f68c25a2a04f_ImageSafeProgram.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e89891a623f68c25a2a04f_ImageSafeProgram.webp');
   }
   
   .hero-section-image.internal.licenses {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e97598678f2e1401494c8f_pexels-julia-m-cameron-4145036-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e97598678f2e1401494c8f_pexels-julia-m-cameron-4145036-min.webp');
   }
   
   .hero-section-image.internal.changelog {
-    background-image: url("https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e97e147da0aa576828a8e8_pexels-max-fischer-5211463-min.webp");
+    background-image: url('https://assets-global.website-files.com/65e1c0c2fd61a5053f5c7bc9/65e97e147da0aa576828a8e8_pexels-max-fischer-5211463-min.webp');
   }
   
   .hero-home-collection-list-wrapper {

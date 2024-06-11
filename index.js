@@ -162,7 +162,7 @@ app.get("/contact-us",(req,res)=>{
 app.get("/about",(req,res)=>{
     res.render("about.ejs")
 })
-app.get("/about",(req,res)=>{
+app.get("/news-events",(req,res)=>{
     res.render("news-events.ejs")
 })
 app.post("/feedback",(req,res)=>{

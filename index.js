@@ -152,15 +152,18 @@ app.get("/",(req,res)=>{
 app.get("/course",(req,res)=>{
     res.render("course.ejs")
 })
-app.get("/news",(req,res)=>{
+app.get("/home",(req,res)=>{
     res.render("home.ejs")
 })
-app.get("/contactus",(req,res)=>{
+app.get("/contact-us",(req,res)=>{
 
     res.render("contact-us.ejs")
 })
 app.get("/about",(req,res)=>{
     res.render("about.ejs")
+})
+app.get("/about",(req,res)=>{
+    res.render("news-events.ejs")
 })
 app.post("/feedback",(req,res)=>{
     console.log(req.body)

@@ -2399,7 +2399,7 @@ html {
   .hero-section-image.home-block {
     min-height: 600px;
     min-width: 50%;
-    background-image: url('assests/images/keira-burton-.jpg');
+    background-image: url('keira-burton-.jpg');
     background-position: 50% 35%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2422,7 +2422,7 @@ html {
   }
   
   .hero-section-image.internal.about {
-    background-image: URL('assests/images/edventure\ park.jpg');
+    background-image: URL('edventure park.jpg');
   }
   
   .hero-section-image.internal.services {
